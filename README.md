@@ -1,11 +1,11 @@
-# country-emoji-languages
+# emoji-flags
 
 > Get country languages from country flag emojis
 
 ## Install
 
 ```sh
-npm install country-emoji-languages
+npm install emoji-flags
 ```
 
 ## Usage
